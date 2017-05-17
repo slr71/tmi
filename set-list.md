@@ -1,18 +1,35 @@
-# Songs to Learn
+# Set List
 
-- Eddie Money - Where's the Party
-- Audioslave - Set it Off
-- Black Sabbath - War Pigs
-- Badfinger - No Matter What
-- Grand Funk - American Band
-- Loggins and Messina - Your Mama Don't Dance
-- Georgia Sattelites - Keep Your Hands to Yourself
-- Eddie Money - Two Tickets to Paradice
-- Black Crowes - Hard to Handle
-- Stevie Ray Vaughan - Pride and Joy
-- Stevie Ray Vaughan - Look at Little Sister
-- ZZ Top - Fool for Your Stockings
-- Doobie Brother's - China Grove
-- Billy Joel - You May be Right
-- Bob Dylan - Knocking on Heaven's Door
-- Lynyrd Skynyrd - Oh the Hunt
+- China Grove - The Doobie Brothers
+- Two Tickets to Paradise - Eddie Money
+- Summer of 69 - Bryan Adams
+- Can't Get Enough - Bad Company
+- Keep Your Hands to Yourself - Georgia Satellites
+- You May be Right - Billy Joel
+- Take it on the Run - REO Speedwagon
+- Shakin' - Eddie Money
+- Give Me One Reason - Tracy Chapman
+- Just What I Needed - The Cars
+- Breakdown - Tom Petty
+- Brown Eyed Girl - Van Morrison
+- Knocking on Heaven's Door - Bob Dylan
+- La Bamba - Ritchie Valens
+- Purple Rain - Prince
+- Black Magic Woman - Santana
+- Oye Como Va - Santana
+- Evil Ways - Santana
+- Corazon Espinado - Santana
+- Black Horse and the Cherry Tree - KT Tunstall
+- We're an American Band - Grand Funk Railroad
+- Pride and Joy - Stevie Ray Vaughan
+- Your Mama Don't Dance - Loggins and Messina
+- Forever Man - Eric Clapton
+- Magnet and Steel - Walter Egan
+- Mustang Sally - Buddy Guy
+- Roadhouse Blues - The Doors
+- Hard to Handle - The Black Crowes
+- Sweet Child O' Mine - Guns N Roses
+- Play that Funky Music - Wild Cherry
+- Superstition - Stevie Wonder
+- Europa - Santana
+- Open Invitation - Santana
