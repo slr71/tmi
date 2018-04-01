@@ -34,3 +34,6 @@
 - Europa - Santana
 - Open Invitation - Santana
 - Drift Away - Dobie Gray
+- Hit Me With Your Best Shot - Pat Benatar
+- Time - Pink Floyd
+- A Little More Summertime - Jason Aldean
