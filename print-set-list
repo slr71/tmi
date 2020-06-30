@@ -1,0 +1,30 @@
+#!/bin/bash
+
+set -e
+
+# Validate the input file name.
+infile="$1"
+if [[ -z "$infile" ]]; then
+    echo "Usage: print-set-list <file>" >&2
+    exit 1
+fi
+if [[ ! -f "$infile" ]]; then
+    echo "Input file does not exist or is not a regular file: $infile" >&2
+    exit 1
+fi
+
+# Determine the name of the output file.
+outfile="$HOME/${infile%.*}.pdf"
+
+# Convert the markdown file to PDF
+pandoc --variable classoption=twocolumn \
+       --variable papersize=letter \
+       --variable fontsize=12pt \
+       "$infile" \
+       -o "$outfile"
+
+# Print the PDF file.
+lpr -# 8 "$outfile"
+
+# Clean up the PDF file.
+rm -f "$outfile"
